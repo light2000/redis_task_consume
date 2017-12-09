@@ -2,7 +2,7 @@
  * bj.h
  *
  *  Created on: Oct 2, 2017
- *      Author: haozhifeng
+ *      Author: light2000
  */
 
 #ifndef OTM_TASK_MONITOR_H_
